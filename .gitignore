@@ -1,0 +1,4 @@
+/node_modules
+/.cache
+/.vscode
+/www/index.bundle.js
